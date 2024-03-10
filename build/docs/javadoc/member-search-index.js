@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ru.ac.uniyar.testingcourse","c":"RussianNameValidator","l":"RussianNameValidator()","u":"%3Cinit%3E()"},{"p":"ru.ac.uniyar.testingcourse","c":"RussianNameValidator","l":"validate(String)","u":"validate(java.lang.String)"}];updateSearchResults();

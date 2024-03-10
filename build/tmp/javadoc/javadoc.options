@@ -1,0 +1,8 @@
+-classpath 'E:\\Java\\validator\\build\\classes\\java\\main;E:\\Java\\validator\\build\\resources\\main'
+-d 'E:\\Java\\validator\\build\\docs\\javadoc'
+-doctitle 'russian-name-validator API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'russian-name-validator API'
+'E:\\Java\\validator\\src\\main\\java\\ru\\ac\\uniyar\\testingcourse\\RussianNameValidator.java'
