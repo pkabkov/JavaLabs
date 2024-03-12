@@ -23,6 +23,6 @@ public class RussianNameValidator {
      * @return true, если имя корректно, иначе — false
      */
     public boolean validate(String name) {
-        return name.matches("[А-Я][а-я]*(-[А-Я][а-я]*)? [А-Я][а-я]*(-[А-Я][а-я]*)?( [А-Я][а-я]*)?");
+        return name.matches("[А-ЯË][а-яë]*(-[А-ЯË][а-яë]*)? [А-ЯË][а-яë]*(-[А-ЯË][а-яë]*)?( [А-ЯË][а-яë]*)?");
     }
 }
